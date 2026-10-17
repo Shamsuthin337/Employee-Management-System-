@@ -88,7 +88,7 @@ Note: Update the column names above if your actual SQL table uses different name
 ![Employees Output](02-insert-data.png)
 
 ### 3. Departments Table Output
-![query Output](03-query-result.png)
+![query Output](03-query-results.png)
 
 📚 Learning Outcomes
 
